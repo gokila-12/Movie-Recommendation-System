@@ -95,4 +95,7 @@ Focused on building practical and user-friendly applications.
 
 ##  License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-17 at 12 59" src="https://github.com/user-attachments/assets/cd77102a-84f6-492a-9ee4-0fa78a85e17f" />
+<img width="1280" height="670" alt="WhatsApp Image 2026-05-17 at 12 59 34" src="https://github.com/user-attachments/assets/704e4719-323c-497a-b2e4-526a6a4bc86d" />
+
